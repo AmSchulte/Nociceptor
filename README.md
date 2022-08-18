@@ -27,7 +27,7 @@ Analysis of trains of APs elicited by increasing 300 ms pulses. Additionally to 
 "VC_currents.ipynb":
 Extraction and plotting of voltage clamp inward and outward currents measured before switching to current clamp. Results are saved in a json file. 
 
-"Plot results.ipynb":
+"Plot_results.ipynb":
 Results are imported from the json files, plotted, and statistically analyzed. 
 
 "PC_parameters_all.xlsx":
