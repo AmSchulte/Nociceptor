@@ -1,0 +1,862 @@
+{
+    "14dpi": [
+        {
+            "firing_threshold": -38.90749067,
+            "amplitude_max": 16.85782708,
+            "amplitude_min": -61.42629683,
+            "spike_width_0mV": 1.48,
+            "spike_width": 2.56,
+            "rheobase": 40.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": -35.248186440000005,
+            "amplitude_max": 4.128447734,
+            "amplitude_min": -59.54973027,
+            "spike_width_0mV": 1.36,
+            "spike_width": 3.8,
+            "rheobase": 40.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": -36.53050587,
+            "amplitude_max": 15.66933468,
+            "amplitude_min": -61.238639060000004,
+            "spike_width_0mV": 1.72,
+            "spike_width": 3.0,
+            "rheobase": 40.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": -38.4696275,
+            "amplitude_max": 15.70061222,
+            "amplitude_min": -60.8320497,
+            "spike_width_0mV": 2.12,
+            "spike_width": 3.64,
+            "rheobase": 40.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": NaN,
+            "amplitude_max": NaN,
+            "amplitude_min": NaN,
+            "spike_width_0mV": NaN,
+            "spike_width": NaN,
+            "rheobase": NaN,
+            "max_frequency": 0.0,
+            "max_ap_number": 0.0
+        },
+        {
+            "firing_threshold": -35.74860469,
+            "amplitude_max": 24.708133189999998,
+            "amplitude_min": -59.956319629999996,
+            "spike_width_0mV": 2.0799999999999996,
+            "spike_width": 3.16,
+            "rheobase": 40.0,
+            "max_frequency": 43.936731107205645,
+            "max_ap_number": 2.0
+        },
+        {
+            "firing_threshold": -37.2498557,
+            "amplitude_max": 10.32111887,
+            "amplitude_min": -60.55056676,
+            "spike_width_0mV": 1.56,
+            "spike_width": 3.44,
+            "rheobase": 60.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": -36.81199253,
+            "amplitude_max": 10.94664168,
+            "amplitude_min": -60.706947,
+            "spike_width_0mV": 1.84,
+            "spike_width": 3.8400000000000003,
+            "rheobase": 40.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": -33.99714082,
+            "amplitude_max": 17.29569398,
+            "amplitude_min": -60.64439192,
+            "spike_width_0mV": 1.9200000000000002,
+            "spike_width": 3.44,
+            "rheobase": 40.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": NaN,
+            "amplitude_max": NaN,
+            "amplitude_min": NaN,
+            "spike_width_0mV": NaN,
+            "spike_width": NaN,
+            "rheobase": NaN,
+            "max_frequency": 0.0,
+            "max_ap_number": 0.0
+        },
+        {
+            "firing_threshold": -36.53050587,
+            "amplitude_max": 15.01253713,
+            "amplitude_min": -65.99260867,
+            "spike_width_0mV": 1.8,
+            "spike_width": 3.0799999999999996,
+            "rheobase": 40.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": NaN,
+            "amplitude_max": NaN,
+            "amplitude_min": NaN,
+            "spike_width_0mV": NaN,
+            "spike_width": NaN,
+            "rheobase": NaN,
+            "max_frequency": 0.0,
+            "max_ap_number": 0.0
+        },
+        {
+            "firing_threshold": -37.53134236,
+            "amplitude_max": 4.284828436,
+            "amplitude_min": -61.08225882,
+            "spike_width_0mV": 1.76,
+            "spike_width": 4.84,
+            "rheobase": 40.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": -39.9396047,
+            "amplitude_max": 9.601768106,
+            "amplitude_min": -60.64439192,
+            "spike_width_0mV": 1.72,
+            "spike_width": 3.6,
+            "rheobase": 60.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": -34.56011042,
+            "amplitude_max": 19.86033469,
+            "amplitude_min": -60.48801169,
+            "spike_width_0mV": 1.8,
+            "spike_width": 3.16,
+            "rheobase": 20.0,
+            "max_frequency": 48.54368932038837,
+            "max_ap_number": 3.0
+        },
+        {
+            "firing_threshold": -34.34117883,
+            "amplitude_max": 16.73272252,
+            "amplitude_min": -60.519289230000005,
+            "spike_width_0mV": 1.9200000000000002,
+            "spike_width": 3.4,
+            "rheobase": 40.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": NaN,
+            "amplitude_max": NaN,
+            "amplitude_min": NaN,
+            "spike_width_0mV": NaN,
+            "spike_width": NaN,
+            "rheobase": NaN,
+            "max_frequency": 0.0,
+            "max_ap_number": 0.0
+        }
+    ],
+    "15dpi": [
+        {
+            "firing_threshold": -34.21607241,
+            "amplitude_max": 15.23146965,
+            "amplitude_min": -59.20569226,
+            "spike_width_0mV": 1.96,
+            "spike_width": 3.6,
+            "rheobase": 20.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": -31.18229099,
+            "amplitude_max": 0.34403731120000003,
+            "amplitude_min": -59.39335003,
+            "spike_width_0mV": 0.27999999999999997,
+            "spike_width": 3.8,
+            "rheobase": 60.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": NaN,
+            "amplitude_max": NaN,
+            "amplitude_min": NaN,
+            "spike_width_0mV": NaN,
+            "spike_width": NaN,
+            "rheobase": NaN,
+            "max_frequency": 0.0,
+            "max_ap_number": 0.0
+        },
+        {
+            "firing_threshold": -36.40540317,
+            "amplitude_max": 8.288171142000001,
+            "amplitude_min": -63.396692279999996,
+            "spike_width_0mV": 1.0399999999999998,
+            "spike_width": 2.4,
+            "rheobase": 20.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": -35.59222445,
+            "amplitude_max": 9.414111264,
+            "amplitude_min": -59.92504209,
+            "spike_width_0mV": 1.72,
+            "spike_width": 3.52,
+            "rheobase": 40.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": NaN,
+            "amplitude_max": NaN,
+            "amplitude_min": NaN,
+            "spike_width_0mV": NaN,
+            "spike_width": NaN,
+            "rheobase": NaN,
+            "max_frequency": 0.0,
+            "max_ap_number": 0.0
+        },
+        {
+            "firing_threshold": -35.904984920000004,
+            "amplitude_max": 16.13847725,
+            "amplitude_min": -59.330794960000006,
+            "spike_width_0mV": 54.080000000000005,
+            "spike_width": 58.12,
+            "rheobase": 20.0,
+            "max_frequency": 43.63001745200699,
+            "max_ap_number": 3.0
+        },
+        {
+            "firing_threshold": -37.468791010000004,
+            "amplitude_max": 25.99045448,
+            "amplitude_min": -58.98676068,
+            "spike_width_0mV": 1.56,
+            "spike_width": 2.4,
+            "rheobase": 20.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": -38.12558949,
+            "amplitude_max": 7.693924941,
+            "amplitude_min": -61.11353636,
+            "spike_width_0mV": 1.1199999999999999,
+            "spike_width": 2.52,
+            "rheobase": 40.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": NaN,
+            "amplitude_max": NaN,
+            "amplitude_min": NaN,
+            "spike_width_0mV": NaN,
+            "spike_width": NaN,
+            "rheobase": NaN,
+            "max_frequency": 0.0,
+            "max_ap_number": 0.0
+        },
+        {
+            "firing_threshold": -36.561783399999996,
+            "amplitude_max": 16.357410700000003,
+            "amplitude_min": -62.833718960000006,
+            "spike_width_0mV": 1.4400000000000002,
+            "spike_width": 25.8,
+            "rheobase": 40.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": -43.25487092,
+            "amplitude_max": 5.1292832939999995,
+            "amplitude_min": -59.51845273,
+            "spike_width_0mV": 0.88,
+            "spike_width": 2.32,
+            "rheobase": 40.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": -37.15603054,
+            "amplitude_max": 5.1292832939999995,
+            "amplitude_min": -59.73738804,
+            "spike_width_0mV": 1.36,
+            "spike_width": 4.04,
+            "rheobase": 60.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": -37.31241077,
+            "amplitude_max": 13.88659701,
+            "amplitude_min": -60.48801169,
+            "spike_width_0mV": 1.24,
+            "spike_width": 2.4,
+            "rheobase": 40.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": NaN,
+            "amplitude_max": NaN,
+            "amplitude_min": NaN,
+            "spike_width_0mV": NaN,
+            "spike_width": NaN,
+            "rheobase": NaN,
+            "max_frequency": 0.0,
+            "max_ap_number": 0.0
+        },
+        {
+            "firing_threshold": -34.56011042,
+            "amplitude_max": 7.005850319,
+            "amplitude_min": -61.89543754,
+            "spike_width_0mV": 1.0399999999999998,
+            "spike_width": 2.4,
+            "rheobase": 60.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        }
+    ],
+    "16dpi": [
+        {
+            "firing_threshold": -33.49672258,
+            "amplitude_max": 4.128447734,
+            "amplitude_min": -60.2690801,
+            "spike_width_0mV": 0.7200000000000001,
+            "spike_width": 2.32,
+            "rheobase": 40.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": -39.03259709,
+            "amplitude_max": 18.07759702,
+            "amplitude_min": -60.86332723,
+            "spike_width_0mV": 1.6,
+            "spike_width": 2.8,
+            "rheobase": 40.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": -36.09263897,
+            "amplitude_max": 2.846126677,
+            "amplitude_min": -59.58100408,
+            "spike_width_0mV": 1.32,
+            "spike_width": 5.24,
+            "rheobase": 60.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": -31.870365140000004,
+            "amplitude_max": 9.851977229000001,
+            "amplitude_min": -72.15400785,
+            "spike_width_0mV": 0.92,
+            "spike_width": 2.2399999999999998,
+            "rheobase": 80.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": -32.714821400000005,
+            "amplitude_max": 28.08595449,
+            "amplitude_min": -60.64439192,
+            "spike_width_0mV": 1.16,
+            "spike_width": 1.8,
+            "rheobase": 40.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": NaN,
+            "amplitude_max": NaN,
+            "amplitude_min": NaN,
+            "spike_width_0mV": NaN,
+            "spike_width": NaN,
+            "rheobase": NaN,
+            "max_frequency": 0.0,
+            "max_ap_number": 0.0
+        },
+        {
+            "firing_threshold": -30.99463321,
+            "amplitude_max": 7.443716284,
+            "amplitude_min": -60.2690801,
+            "spike_width_0mV": 1.36,
+            "spike_width": 3.04,
+            "rheobase": 40.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": -37.15603054,
+            "amplitude_max": 9.445387870000001,
+            "amplitude_min": -60.2690801,
+            "spike_width_0mV": 1.1199999999999999,
+            "spike_width": 2.28,
+            "rheobase": 60.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": -35.967536270000004,
+            "amplitude_max": 10.28984319,
+            "amplitude_min": -61.520125719999996,
+            "spike_width_0mV": 0.88,
+            "spike_width": 1.84,
+            "rheobase": 60.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": -33.43417123,
+            "amplitude_max": 22.018387909999998,
+            "amplitude_min": -61.520125719999996,
+            "spike_width_0mV": 1.96,
+            "spike_width": 3.12,
+            "rheobase": 40.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": NaN,
+            "amplitude_max": NaN,
+            "amplitude_min": NaN,
+            "spike_width_0mV": NaN,
+            "spike_width": NaN,
+            "rheobase": NaN,
+            "max_frequency": 0.0,
+            "max_ap_number": 0.0
+        },
+        {
+            "firing_threshold": -32.4020572,
+            "amplitude_max": 11.66599244,
+            "amplitude_min": -60.08142233,
+            "spike_width_0mV": 1.32,
+            "spike_width": 2.76,
+            "rheobase": 60.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": NaN,
+            "amplitude_max": NaN,
+            "amplitude_min": NaN,
+            "spike_width_0mV": NaN,
+            "spike_width": NaN,
+            "rheobase": NaN,
+            "max_frequency": 0.0,
+            "max_ap_number": 0.0
+        },
+        {
+            "firing_threshold": -30.11890128,
+            "amplitude_max": 10.196014309999999,
+            "amplitude_min": -61.707783490000004,
+            "spike_width_0mV": 1.08,
+            "spike_width": 2.32,
+            "rheobase": 100.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": -33.027581870000006,
+            "amplitude_max": 12.666828,
+            "amplitude_min": -58.86165425,
+            "spike_width_0mV": 1.8,
+            "spike_width": 4.08,
+            "rheobase": 40.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": -38.06303442,
+            "amplitude_max": 6.567984819,
+            "amplitude_min": -58.36123601,
+            "spike_width_0mV": 1.1199999999999999,
+            "spike_width": 2.72,
+            "rheobase": 40.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": -28.46126817,
+            "amplitude_max": 13.88659701,
+            "amplitude_min": -65.46091288,
+            "spike_width_0mV": 2.0,
+            "spike_width": 4.2,
+            "rheobase": 40.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": -29.8999697,
+            "amplitude_max": 22.70646207,
+            "amplitude_min": -56.95381016,
+            "spike_width_0mV": 1.56,
+            "spike_width": 2.56,
+            "rheobase": 40.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": NaN,
+            "amplitude_max": NaN,
+            "amplitude_min": NaN,
+            "spike_width_0mV": NaN,
+            "spike_width": NaN,
+            "rheobase": NaN,
+            "max_frequency": 0.0,
+            "max_ap_number": 0.0
+        },
+        {
+            "firing_threshold": -33.71565416,
+            "amplitude_max": 24.05133471,
+            "amplitude_min": -61.64522842,
+            "spike_width_0mV": 2.0799999999999996,
+            "spike_width": 3.3600000000000003,
+            "rheobase": 60.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        }
+    ],
+    "17dpi": [
+        {
+            "firing_threshold": -33.840760589999995,
+            "amplitude_max": 6.411604118,
+            "amplitude_min": -61.6139546,
+            "spike_width_0mV": 0.88,
+            "spike_width": 2.04,
+            "rheobase": 80.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": -42.8795591,
+            "amplitude_max": 3.06505966,
+            "amplitude_min": -60.706947,
+            "spike_width_0mV": 0.8400000000000001,
+            "spike_width": 2.64,
+            "rheobase": 60.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": -35.18563509,
+            "amplitude_max": 15.07508941,
+            "amplitude_min": -62.52095848,
+            "spike_width_0mV": 1.28,
+            "spike_width": 2.48,
+            "rheobase": 40.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": -28.93040888,
+            "amplitude_max": 2.220604336,
+            "amplitude_min": -60.48801169,
+            "spike_width_0mV": 1.0399999999999998,
+            "spike_width": 4.64,
+            "rheobase": 80.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": -34.24734995,
+            "amplitude_max": 3.409096971,
+            "amplitude_min": -61.11353636,
+            "spike_width_0mV": 0.6,
+            "spike_width": 1.96,
+            "rheobase": 20.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": -36.62433475,
+            "amplitude_max": 9.445387870000001,
+            "amplitude_min": -59.04931203,
+            "spike_width_0mV": 1.56,
+            "spike_width": 3.6,
+            "rheobase": 40.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": -34.153521059999996,
+            "amplitude_max": 9.883253835,
+            "amplitude_min": -62.27075309,
+            "spike_width_0mV": 1.9200000000000002,
+            "spike_width": 3.6,
+            "rheobase": 40.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": -27.366602789999998,
+            "amplitude_max": 7.256059442,
+            "amplitude_min": -62.11437285,
+            "spike_width_0mV": 0.92,
+            "spike_width": 2.76,
+            "rheobase": 160.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": NaN,
+            "amplitude_max": NaN,
+            "amplitude_min": NaN,
+            "spike_width_0mV": NaN,
+            "spike_width": NaN,
+            "rheobase": NaN,
+            "max_frequency": 0.0,
+            "max_ap_number": 0.0
+        },
+        {
+            "firing_threshold": -36.374125629999995,
+            "amplitude_max": 23.582194,
+            "amplitude_min": -61.7390573,
+            "spike_width_0mV": 1.1199999999999999,
+            "spike_width": 1.84,
+            "rheobase": 40.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": -21.455416460000002,
+            "amplitude_max": 12.22896203,
+            "amplitude_min": -60.92587858,
+            "spike_width_0mV": 1.4,
+            "spike_width": 3.3600000000000003,
+            "rheobase": 100.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": -29.681036250000002,
+            "amplitude_max": 3.471649252,
+            "amplitude_min": -61.01970747,
+            "spike_width_0mV": 0.8400000000000001,
+            "spike_width": 3.32,
+            "rheobase": 60.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": -33.90331194,
+            "amplitude_max": 8.382000028999999,
+            "amplitude_min": -61.95798889,
+            "spike_width_0mV": 0.8400000000000001,
+            "spike_width": 2.2399999999999998,
+            "rheobase": 140.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": -35.74860469,
+            "amplitude_max": 15.07508941,
+            "amplitude_min": -61.26991659,
+            "spike_width_0mV": 1.52,
+            "spike_width": 2.8800000000000003,
+            "rheobase": 40.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": -31.71398491,
+            "amplitude_max": 22.26859704,
+            "amplitude_min": -61.363745480000006,
+            "spike_width_0mV": 2.0799999999999996,
+            "spike_width": 3.32,
+            "rheobase": 60.0,
+            "max_frequency": 41.35649296939619,
+            "max_ap_number": 4.0
+        },
+        {
+            "firing_threshold": -33.15268457,
+            "amplitude_max": 6.16139546,
+            "amplitude_min": -62.489684669999995,
+            "spike_width_0mV": 1.6,
+            "spike_width": 4.159999999999999,
+            "rheobase": 60.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": -36.46795452,
+            "amplitude_max": 24.11388792,
+            "amplitude_min": -61.238639060000004,
+            "spike_width_0mV": 2.0799999999999996,
+            "spike_width": 3.28,
+            "rheobase": 60.0,
+            "max_frequency": 46.21072088724583,
+            "max_ap_number": 2.0
+        },
+        {
+            "firing_threshold": -31.463775780000002,
+            "amplitude_max": 24.17643927,
+            "amplitude_min": -61.48884818,
+            "spike_width_0mV": 2.16,
+            "spike_width": 3.64,
+            "rheobase": 60.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": -33.621829,
+            "amplitude_max": 21.01755142,
+            "amplitude_min": -59.831213209999994,
+            "spike_width_0mV": 1.8,
+            "spike_width": 2.84,
+            "rheobase": 40.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        }
+    ],
+    "drg": [
+        {
+            "firing_threshold": -29.49338034,
+            "amplitude_max": 35.2169089,
+            "amplitude_min": -63.396692279999996,
+            "spike_width_0mV": 3.2399999999999998,
+            "spike_width": 4.88,
+            "rheobase": 40.0,
+            "max_frequency": 22.844958879074017,
+            "max_ap_number": 7.0
+        },
+        {
+            "firing_threshold": -30.58804385,
+            "amplitude_max": 34.12224352,
+            "amplitude_min": -72.68569618,
+            "spike_width_0mV": 5.6,
+            "spike_width": 8.28,
+            "rheobase": 40.0,
+            "max_frequency": 13.92369813422445,
+            "max_ap_number": 5.0
+        },
+        {
+            "firing_threshold": -29.681036250000002,
+            "amplitude_max": 18.796946849999998,
+            "amplitude_min": -72.06017523999999,
+            "spike_width_0mV": 2.2,
+            "spike_width": 4.32,
+            "rheobase": 100.0,
+            "max_frequency": 20.295502516642312,
+            "max_ap_number": 6.0
+        },
+        {
+            "firing_threshold": -41.00299254,
+            "amplitude_max": 34.3099013,
+            "amplitude_min": -74.68736917,
+            "spike_width_0mV": 3.96,
+            "spike_width": 5.88,
+            "rheobase": 20.0,
+            "max_frequency": 25.731510072048227,
+            "max_ap_number": 8.0
+        },
+        {
+            "firing_threshold": -38.84493932,
+            "amplitude_max": 30.02507426,
+            "amplitude_min": -70.4338178,
+            "spike_width_0mV": 3.8,
+            "spike_width": 6.08,
+            "rheobase": 40.0,
+            "max_frequency": 25.15452062670691,
+            "max_ap_number": 8.0
+        },
+        {
+            "firing_threshold": -32.80864656,
+            "amplitude_max": 30.619319530000002,
+            "amplitude_min": -68.46342236,
+            "spike_width_0mV": 4.92,
+            "spike_width": 7.04,
+            "rheobase": 80.0,
+            "max_frequency": 11.04728236853734,
+            "max_ap_number": 4.0
+        },
+        {
+            "firing_threshold": -41.78489372,
+            "amplitude_max": 25.490036229999998,
+            "amplitude_min": -65.86750597000001,
+            "spike_width_0mV": 5.2,
+            "spike_width": 11.0,
+            "rheobase": 100.0,
+            "max_frequency": 13.863216266173753,
+            "max_ap_number": 5.0
+        },
+        {
+            "firing_threshold": -42.8795591,
+            "amplitude_max": 23.300707340000002,
+            "amplitude_min": -66.93089008,
+            "spike_width_0mV": 4.6,
+            "spike_width": 10.16,
+            "rheobase": 80.0,
+            "max_frequency": 16.337199803953602,
+            "max_ap_number": 5.0
+        },
+        {
+            "firing_threshold": -23.926230150000002,
+            "amplitude_max": 37.34368458,
+            "amplitude_min": -69.12022084,
+            "spike_width_0mV": 9.2,
+            "spike_width": 12.16,
+            "rheobase": 100.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": NaN,
+            "amplitude_max": NaN,
+            "amplitude_min": NaN,
+            "spike_width_0mV": NaN,
+            "spike_width": NaN,
+            "rheobase": NaN,
+            "max_frequency": 0.0,
+            "max_ap_number": 0.0
+        },
+        {
+            "firing_threshold": -32.58971497,
+            "amplitude_max": 14.074252920000001,
+            "amplitude_min": -64.46007639,
+            "spike_width_0mV": 2.4,
+            "spike_width": 4.96,
+            "rheobase": 40.0,
+            "max_frequency": 28.43062926459439,
+            "max_ap_number": 4.0
+        },
+        {
+            "firing_threshold": -36.374125629999995,
+            "amplitude_max": 33.65310282,
+            "amplitude_min": -74.21822845999999,
+            "spike_width_0mV": 4.984999999999999,
+            "spike_width": 6.885,
+            "rheobase": 180.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        },
+        {
+            "firing_threshold": -29.49338034,
+            "amplitude_max": 23.20688032,
+            "amplitude_min": -76.00096613,
+            "spike_width_0mV": 3.4450000000000003,
+            "spike_width": 6.365,
+            "rheobase": 80.0,
+            "max_frequency": 0.0,
+            "max_ap_number": 1.0
+        }
+    ]
+}
